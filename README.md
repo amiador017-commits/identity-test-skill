@@ -20,7 +20,7 @@
 
 ## The problem
 
-A provider sells `gpt-4o`, `claude-3-5-sonnet`, or `qwen3-8b` at a suspicious price. The label is a string in a JSON response. Nothing in the API proves what is actually answering. A relabeled 8B model can be sold as a frontier one, and several "different" model IDs can be the same backend.
+A provider sells `GPT-6-Astra`, `Fable-5.2`, or a similar new flagship at a suspicious price. The label is a string in a JSON response. Nothing in the API proves what is actually answering. A relabeled 8B model can be sold as a frontier one, and several "different" model IDs can be the same backend.
 
 ## The fix
 
